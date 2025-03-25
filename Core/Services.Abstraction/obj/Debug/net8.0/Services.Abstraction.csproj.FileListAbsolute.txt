@@ -1,0 +1,15 @@
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\bin\Debug\net8.0\Services.Abstraction.deps.json
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\bin\Debug\net8.0\Services.Abstraction.dll
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\bin\Debug\net8.0\Services.Abstraction.pdb
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\bin\Debug\net8.0\Shared.dll
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\bin\Debug\net8.0\Shared.pdb
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.csproj.AssemblyReference.cache
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.AssemblyInfoInputs.cache
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.AssemblyInfo.cs
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.csproj.CoreCompileInputs.cache
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\Services.4D1A1826.Up2Date
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.dll
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\refint\Services.Abstraction.dll
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.pdb
+E:\Root course\c#\Basics\E-Commerce\Core\Services.Abstraction\obj\Debug\net8.0\ref\Services.Abstraction.dll

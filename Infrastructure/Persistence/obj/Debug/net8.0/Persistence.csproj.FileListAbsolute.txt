@@ -1,0 +1,15 @@
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.deps.json
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.dll
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.pdb
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.dll
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\bin\Debug\net8.0\Domain.pdb
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
