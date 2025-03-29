@@ -9,3 +9,4 @@ E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.dll
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\refint\Shared.dll
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.pdb
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\ref\Shared.dll
+E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.sourcelink.json

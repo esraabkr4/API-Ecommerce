@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "hkw01zberXc=",
+  "dgSpecHash": "EtvySXKlGe0=",
   "success": true,
   "projectFilePath": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\CM\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\CM\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.3\\microsoft.extensions.configuration.9.0.3.nupkg.sha512",
+    "C:\\Users\\CM\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.3\\microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\CM\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\CM\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\CM\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

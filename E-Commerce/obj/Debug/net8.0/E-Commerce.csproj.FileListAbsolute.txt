@@ -158,3 +158,9 @@ E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Presentation.pdb
 E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Domain.pdb
 E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Services.Abstraction.pdb
 E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Shared.pdb
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.sourcelink.json
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\AutoMapper.dll
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\E-Commerce.staticwebassets.runtime.json
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll

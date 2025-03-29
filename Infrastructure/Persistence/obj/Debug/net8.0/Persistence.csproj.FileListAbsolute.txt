@@ -13,3 +13,4 @@ E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\
 E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
 E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

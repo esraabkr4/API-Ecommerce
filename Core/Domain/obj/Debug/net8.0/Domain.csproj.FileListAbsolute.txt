@@ -9,3 +9,4 @@ E:\Root course\c#\Basics\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.dll
 E:\Root course\c#\Basics\E-Commerce\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
 E:\Root course\c#\Basics\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.pdb
 E:\Root course\c#\Basics\E-Commerce\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\Root course\c#\Basics\E-Commerce\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json

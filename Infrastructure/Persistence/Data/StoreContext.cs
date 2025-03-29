@@ -19,9 +19,9 @@ namespace Persistence.Data
         }
 
         #region DBsets
-        public DbSet<Product> products;
-        public DbSet<ProductType> productsTypes;
-        public DbSet<ProductBrand> productBrands;
+        public DbSet<Product> products { get; set; }
+        public DbSet<ProductType> productsTypes { get; set; }
+        public DbSet<ProductBrand> productBrands { get; set; }
         #endregion
     }
 }

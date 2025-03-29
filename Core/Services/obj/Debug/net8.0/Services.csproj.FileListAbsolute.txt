@@ -17,3 +17,4 @@ E:\Root course\c#\Basics\E-Commerce\Core\Services\obj\Debug\net8.0\Services.dll
 E:\Root course\c#\Basics\E-Commerce\Core\Services\obj\Debug\net8.0\refint\Services.dll
 E:\Root course\c#\Basics\E-Commerce\Core\Services\obj\Debug\net8.0\Services.pdb
 E:\Root course\c#\Basics\E-Commerce\Core\Services\obj\Debug\net8.0\ref\Services.dll
+E:\Root course\c#\Basics\E-Commerce\Core\Services\obj\Debug\net8.0\Services.sourcelink.json

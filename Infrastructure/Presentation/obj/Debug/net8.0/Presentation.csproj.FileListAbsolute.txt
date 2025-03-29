@@ -15,3 +15,4 @@ E:\Root course\c#\Basics\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0
 E:\Root course\c#\Basics\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 E:\Root course\c#\Basics\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
 E:\Root course\c#\Basics\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+E:\Root course\c#\Basics\E-Commerce\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
