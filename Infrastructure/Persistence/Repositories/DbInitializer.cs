@@ -28,7 +28,7 @@ namespace Persistence.Repositories
                     await _storeContext.Database.MigrateAsync();
 
                 ////////////////////////////////////////////
-                //if (!_storeContext.productsTypes.Any())
+                if (!_storeContext.productsTypes.Any())
                 {
                     var TypesData = await File.ReadAllTextAsync(path: @"..\Infrastructure\Persistence\Data\Seeding\types.json");
                     var types = JsonSerializer.Deserialize<List<ProductType>>(TypesData);
@@ -40,7 +40,7 @@ namespace Persistence.Repositories
                 }
 
                 //////////////////////////////////////////
-                //if (!_storeContext.productBrands.Any())
+                if (!_storeContext.productBrands.Any())
                 {
                     var BrandsData = await File.ReadAllTextAsync(path: @"..\Infrastructure\Persistence\Data\Seeding\brands.json");
                     var Brands = JsonSerializer.Deserialize<List<ProductBrand>>(BrandsData);
@@ -62,7 +62,7 @@ namespace Persistence.Repositories
                     }
                 }
             }
-            catch (Exception e){ throw new Exception(e.Message); }
+            catch {  }
 
 
         }

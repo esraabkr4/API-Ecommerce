@@ -3,92 +3,55 @@
   "WorkspaceRootPath": "E:\\Root course\\c#\\Basics\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\repositories\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Root course\\c#\\Basics\\EF_Loading-Join\\EF_Loading-Join\\DataSeeding\\CompanyDbContextSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Root course\\c#\\Basics\\EF_Loading-Join\\EF_Loading-Join\\Contexts\\CompanyDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Root course\\c#\\Basics\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContextSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Root course\\c#\\Basics\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\migrations\\20250329070813_edit fields names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\migrations\\20250329070813_edit fields names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\data\\seeding\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\seeding\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\data\\seeding\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\seeding\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|e:\\root course\\c#\\basics\\e-commerce\\shared\\productresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|solutionrelative:shared\\productresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\e-commerce.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\e-commerce.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|e:\\root course\\c#\\basics\\e-commerce\\shared\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|solutionrelative:shared\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6962406D-D43B-46DD-B760-1BD790C05316}|Core\\Services.Abstraction\\Services.Abstraction.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services.abstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6962406D-D43B-46DD-B760-1BD790C05316}|Core\\Services.Abstraction\\Services.Abstraction.csproj|solutionrelative:core\\services.abstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|e:\\root course\\c#\\basics\\e-commerce\\shared\\productspecificationparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|solutionrelative:shared\\productspecificationparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\repositories\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Migrations\\20250407205922_any.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Persistence\\Migrations\\20250407205922_any.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Root course\\c#\\Basics\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\specifications\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\specifications\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|e:\\root course\\c#\\basics\\e-commerce\\shared\\brandresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|solutionrelative:shared\\brandresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,287 +61,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwCMAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAjwDgAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:28:43.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250329070813_edit fields names.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Migrations\\20250329070813_edit fields names.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Migrations\\20250329070813_edit fields names.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Migrations\\20250329070813_edit fields names.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Migrations\\20250329070813_edit fields names.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADgvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:08:17.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Repositories\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\DbInitializer.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Repositories\\DbInitializer.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\DbInitializer.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAgwEAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:01:38.927Z",
+              "WhenOpened": "2025-04-07T21:18:11.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CompanyDbContextSeed.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF_Loading-Join\\EF_Loading-Join\\DataSeeding\\CompanyDbContextSeed.cs",
-              "RelativeDocumentMoniker": "..\\EF_Loading-Join\\EF_Loading-Join\\DataSeeding\\CompanyDbContextSeed.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\EF_Loading-Join\\EF_Loading-Join\\DataSeeding\\CompanyDbContextSeed.cs",
-              "RelativeToolTip": "..\\EF_Loading-Join\\EF_Loading-Join\\DataSeeding\\CompanyDbContextSeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\Domain\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:35:03.452Z",
+              "WhenOpened": "2025-04-07T21:16:20.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CompanyDbContext.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF_Loading-Join\\EF_Loading-Join\\Contexts\\CompanyDbContext.cs",
-              "RelativeDocumentMoniker": "..\\EF_Loading-Join\\EF_Loading-Join\\Contexts\\CompanyDbContext.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\EF_Loading-Join\\EF_Loading-Join\\Contexts\\CompanyDbContext.cs",
-              "RelativeToolTip": "..\\EF_Loading-Join\\EF_Loading-Join\\Contexts\\CompanyDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Pagination.cs",
+              "RelativeDocumentMoniker": "Shared\\Pagination.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Pagination.cs",
+              "RelativeToolTip": "Shared\\Pagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:35:26.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StoreContext.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\StoreContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\StoreContext.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\StoreContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\StoreContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:01:08.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Program.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Program.cs",
-              "RelativeToolTip": "E-Commerce\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAgwD0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:09:15.755Z",
+              "WhenOpened": "2025-04-07T21:03:48.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationDbContextSeed.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContextSeed.cs",
-              "RelativeDocumentMoniker": "..\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContextSeed.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContextSeed.cs",
-              "RelativeToolTip": "..\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContextSeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:34:12.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductConfigurations.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Configurations\\ProductConfigurations.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Configurations\\ProductConfigurations.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Configurations\\ProductConfigurations.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Configurations\\ProductConfigurations.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:00:54.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "brands.json",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Seeding\\brands.json",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Seeding\\brands.json",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Seeding\\brands.json",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Seeding\\brands.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T06:47:43.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductResultDTO.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\ProductResultDTO.cs",
-              "RelativeDocumentMoniker": "Shared\\ProductResultDTO.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\ProductResultDTO.cs",
-              "RelativeToolTip": "Shared\\ProductResultDTO.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:47:16.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "products.json",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Seeding\\products.json",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Seeding\\products.json",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Seeding\\products.json",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Seeding\\products.json",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T06:43:05.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductProfile.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\MappingProfiles\\ProductProfile.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\MappingProfiles\\ProductProfile.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\MappingProfiles\\ProductProfile.cs",
-              "RelativeToolTip": "Core\\Services\\MappingProfiles\\ProductProfile.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIAxwBIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:34:15.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PictureUrlResolver.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\MappingProfiles\\PictureUrlResolver.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\MappingProfiles\\PictureUrlResolver.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\MappingProfiles\\PictureUrlResolver.cs",
-              "RelativeToolTip": "Core\\Services\\MappingProfiles\\PictureUrlResolver.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:27:33.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T05:41:12.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Product.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Core\\Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:42:52.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\appsettings.json",
-              "RelativeDocumentMoniker": "E-Commerce\\appsettings.json",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\appsettings.json",
-              "RelativeToolTip": "E-Commerce\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T06:35:58.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\WeatherForecast.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\WeatherForecast.cs",
-              "RelativeToolTip": "E-Commerce\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:22:19.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "E-Commerce\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:22:25.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "E-Commerce.http",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\E-Commerce.http",
-              "RelativeDocumentMoniker": "E-Commerce\\E-Commerce.http",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\E-Commerce.http",
-              "RelativeToolTip": "E-Commerce\\E-Commerce.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-29T06:20:45.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AssemblyReference.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\AssemblyReference.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\AssemblyReference.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\AssemblyReference.cs",
-              "RelativeToolTip": "Infrastructure\\Presentation\\AssemblyReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:08:46.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "IProductService.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IProductService.cs",
               "RelativeDocumentMoniker": "Core\\Services.Abstraction\\IProductService.cs",
               "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IProductService.cs",
               "RelativeToolTip": "Core\\Services.Abstraction\\IProductService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAjwA0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T05:58:59.395Z"
+              "WhenOpened": "2025-04-07T20:09:24.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 0,
               "Title": "ProductService.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Core\\Services\\ProductService.cs",
               "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\ProductService.cs",
               "RelativeToolTip": "Core\\Services\\ProductService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAArwBoAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwCkAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T05:58:12.753Z"
+              "WhenOpened": "2025-04-07T20:06:20.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductSpecificationParameters.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\ProductSpecificationParameters.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductSpecificationParameters.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\ProductSpecificationParameters.cs",
+              "RelativeToolTip": "Shared\\ProductSpecificationParameters.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:00:53.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:05:16.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Repositories\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\DbInitializer.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Repositories\\DbInitializer.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\DbInitializer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:38:48.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\StoreContext.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\StoreContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\StoreContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:43:11.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\IKEA-MVC\\Ikea.DAL\\Persistence\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:51:15.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250407205922_any.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Migrations\\20250407205922_any.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Migrations\\20250407205922_any.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Migrations\\20250407205922_any.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Migrations\\20250407205922_any.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:59:23.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BrandResultDTO.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\BrandResultDTO.cs",
+              "RelativeDocumentMoniker": "Shared\\BrandResultDTO.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\BrandResultDTO.cs",
+              "RelativeToolTip": "Shared\\BrandResultDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:09:42.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductWithBrandAndTypeSpecifications.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeToolTip": "Core\\Services\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAASwCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:07:21.325Z",
+              "EditorCaption": ""
             }
           ]
         }

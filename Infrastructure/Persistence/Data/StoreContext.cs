@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Persistence.Data
 {
@@ -15,13 +16,14 @@ namespace Persistence.Data
       
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(StoreContext).Assembly);
         }
 
         #region DBsets
         public DbSet<Product> products { get; set; }
-        public DbSet<ProductType> productsTypes { get; set; }
-        public DbSet<ProductBrand> productBrands { get; set; }
+        public DbSet<Domain.Entities.ProductType> productsTypes { get; set; } 
+        public DbSet<Domain.Entities.ProductBrand> productBrands { get; set; }
         #endregion
     }
 }
