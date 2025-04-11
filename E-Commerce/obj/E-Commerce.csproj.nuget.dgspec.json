@@ -369,6 +369,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.14, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.31, )"
             }
           },
           "imports": [
@@ -419,6 +423,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Domain.csproj"
+              },
               "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\Services.Abstraction.csproj": {
                 "projectPath": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\Services.Abstraction.csproj"
               }

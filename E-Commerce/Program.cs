@@ -1,11 +1,13 @@
 
 using Domain.Contracts;
+using E_Commerce.Middlewares;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Persistence.Data;
 using Persistence.Repositories;
 using Services;
 using Services.Abstraction;
+using StackExchange.Redis;
 
 namespace E_Commerce
 {
@@ -22,6 +24,9 @@ namespace E_Commerce
             builder.Services.AddScoped<IDbInitializer, DbInitializer>();
             //builder.Services.AddScoped<IGenericRepository, GenericRepository>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            builder.Services.AddScoped<IBasketRepository, BasketRepository>();
+            builder.Services.AddScoped<IBasketService, BasketService>();
+
             //builder.Services.AddScoped<IProductService, ProductService>();
             builder.Services.AddScoped<IServiceManager, ServiceManager>();
             builder.Services.AddAutoMapper(typeof(Services.AssemblyReference).Assembly);
@@ -31,11 +36,14 @@ namespace E_Commerce
             });
 
             #endregion
+            builder.Services.AddSingleton<IConnectionMultiplexer>
+                ( _=>ConnectionMultiplexer.Connect(builder.Configuration.GetConnectionString("RedisConnection")));
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
+            app.UseMiddleware<GlobalErrorHandlingMiddleware>();
             await IntializeDbAsync(app);
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
