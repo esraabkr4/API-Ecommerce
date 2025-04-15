@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Root course\\c#\\Basics\\E-Commerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\identity\\storeidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\identity\\storeidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,6 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StoreIdentityContext.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Identity\\StoreIdentityContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Identity\\StoreIdentityContext.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Identity\\StoreIdentityContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Identity\\StoreIdentityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:45:01.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeToolTip": "E-Commerce\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAASwCYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:36:41.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BasketController.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\BasketController.cs",
@@ -67,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ServiceManager.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\ServiceManager.cs",
               "RelativeDocumentMoniker": "Core\\Services\\ServiceManager.cs",
@@ -80,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IServiceManager.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IServiceManager.cs",
               "RelativeDocumentMoniker": "Core\\Services.Abstraction\\IServiceManager.cs",
@@ -93,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BasketProfile.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\MappingProfiles\\BasketProfile.cs",
               "RelativeDocumentMoniker": "Core\\Services\\MappingProfiles\\BasketProfile.cs",
@@ -106,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ProductNotFoundException.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\ProductNotFoundException.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Exceptions\\ProductNotFoundException.cs",
@@ -119,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BasketNotFoundException.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\BasketNotFoundException.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Exceptions\\BasketNotFoundException.cs",
@@ -132,33 +162,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Program.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Program.cs",
-              "RelativeToolTip": "E-Commerce\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAASwBsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:36:41.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BasketService.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\BasketService.cs",
               "RelativeDocumentMoniker": "Core\\Services\\BasketService.cs",
               "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\BasketService.cs",
               "RelativeToolTip": "Core\\Services\\BasketService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAABpAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAEBTwB4AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T20:34:48.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IBasketService.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IBasketService.cs",
               "RelativeDocumentMoniker": "Core\\Services.Abstraction\\IBasketService.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IBasketRepository.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Contracts\\IBasketRepository.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Contracts\\IBasketRepository.cs",

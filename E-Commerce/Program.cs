@@ -4,6 +4,7 @@ using E_Commerce.Middlewares;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Persistence.Data;
+using Persistence.Identity;
 using Persistence.Repositories;
 using Services;
 using Services.Abstraction;
@@ -35,6 +36,9 @@ namespace E_Commerce
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
 
+            builder.Services.AddDbContext<StoreIdentityContext>(options => {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnection"));
+            });
             #endregion
             builder.Services.AddSingleton<IConnectionMultiplexer>
                 ( _=>ConnectionMultiplexer.Connect(builder.Configuration.GetConnectionString("RedisConnection")));

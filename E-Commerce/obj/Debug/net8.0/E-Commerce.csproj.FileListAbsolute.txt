@@ -166,3 +166,8 @@ E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.Extens
 E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
