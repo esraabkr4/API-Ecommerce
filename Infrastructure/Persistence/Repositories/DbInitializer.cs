@@ -95,8 +95,11 @@ namespace Persistence.Repositories
                     UserName = "AdminUser",
                     PhoneNumber = "012345"
                 };
-                await _userManager.CreateAsync(SuperAdminUser,"");
-                await _userManager.CreateAsync(AdminUser, "");
+                await _userManager.CreateAsync(SuperAdminUser,"P@$$w0rd");
+                await _userManager.CreateAsync(AdminUser, "P@$$w0rd");
+
+                await _userManager.AddToRoleAsync(SuperAdminUser, "SuperAdmin");
+                await _userManager.AddToRoleAsync(AdminUser, "Admin");
 
             }
         }

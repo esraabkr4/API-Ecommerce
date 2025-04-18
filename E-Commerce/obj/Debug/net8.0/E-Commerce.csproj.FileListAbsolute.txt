@@ -171,3 +171,4 @@ E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.AspNet
 E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Root course\c#\Basics\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

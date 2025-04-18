@@ -11,13 +11,13 @@ namespace Persistence.Identity
 {
     public class StoreIdentityContext : IdentityDbContext
     {
+       
         public StoreIdentityContext(DbContextOptions<StoreIdentityContext> options)
             :base(options) { }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-            builder.Entity<Address>().ToTable("Addresses","Security");
-            builder.Entity<User>().ToTable("IdentityUser", "Security");
+            builder.Entity<Address>().ToTable("Addresses");
         }
     }
 }

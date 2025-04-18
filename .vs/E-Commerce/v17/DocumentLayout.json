@@ -3,48 +3,88 @@
   "WorkspaceRootPath": "E:\\Root course\\c#\\Basics\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\identity\\storeidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\identity\\storeidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|e:\\root course\\c#\\basics\\e-commerce\\shared\\security\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|solutionrelative:shared\\security\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6962406D-D43B-46DD-B760-1BD790C05316}|Core\\Services.Abstraction\\Services.Abstraction.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services.abstraction\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6962406D-D43B-46DD-B760-1BD790C05316}|Core\\Services.Abstraction\\Services.Abstraction.csproj|solutionrelative:core\\services.abstraction\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6962406D-D43B-46DD-B760-1BD790C05316}|Core\\Services.Abstraction\\Services.Abstraction.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services.abstraction\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6962406D-D43B-46DD-B760-1BD790C05316}|Core\\Services.Abstraction\\Services.Abstraction.csproj|solutionrelative:core\\services.abstraction\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|e:\\root course\\c#\\basics\\e-commerce\\e-commerce\\middlewares\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6DDE1C-C077-4CAA-85C6-5E005A7F9748}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\middlewares\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|e:\\root course\\c#\\basics\\e-commerce\\shared\\errormodels\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|solutionrelative:shared\\errormodels\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\exceptions\\registervalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\exceptions\\registervalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\exceptions\\basketnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\exceptions\\basketnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|e:\\root course\\c#\\basics\\e-commerce\\shared\\security\\userresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|solutionrelative:shared\\security\\userresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|e:\\root course\\c#\\basics\\e-commerce\\shared\\security\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|solutionrelative:shared\\security\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6962406D-D43B-46DD-B760-1BD790C05316}|Core\\Services.Abstraction\\Services.Abstraction.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services.abstraction\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6962406D-D43B-46DD-B760-1BD790C05316}|Core\\Services.Abstraction\\Services.Abstraction.csproj|solutionrelative:core\\services.abstraction\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|e:\\root course\\c#\\basics\\e-commerce\\shared\\security\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086B30C-AF35-4F1C-9324-5969BDE6707B}|Shared\\Shared.csproj|solutionrelative:shared\\security\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,21 +94,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StoreIdentityContext.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Identity\\StoreIdentityContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Identity\\StoreIdentityContext.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Identity\\StoreIdentityContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Identity\\StoreIdentityContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAArwBMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:45:01.262Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -77,126 +104,269 @@
               "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
               "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Program.cs",
               "RelativeToolTip": "E-Commerce\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAASwCYAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAASwEEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:36:41.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADgvyEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:17:35.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceManager.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\ServiceManager.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\ServiceManager.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\ServiceManager.cs",
-              "RelativeToolTip": "Core\\Services\\ServiceManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADgvxQAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:08:07.956Z",
+              "WhenOpened": "2025-04-18T17:23:03.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IServiceManager.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IServiceManager.cs",
-              "RelativeDocumentMoniker": "Core\\Services.Abstraction\\IServiceManager.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IServiceManager.cs",
-              "RelativeToolTip": "Core\\Services.Abstraction\\IServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Security\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Shared\\Security\\JwtOptions.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Security\\JwtOptions.cs",
+              "RelativeToolTip": "Shared\\Security\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:06:59.252Z",
+              "WhenOpened": "2025-04-18T17:18:47.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commerce\\appsettings.json",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\appsettings.json",
+              "RelativeToolTip": "E-Commerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T17:09:02.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BasketProfile.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\MappingProfiles\\BasketProfile.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\MappingProfiles\\BasketProfile.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\MappingProfiles\\BasketProfile.cs",
-              "RelativeToolTip": "Core\\Services\\MappingProfiles\\BasketProfile.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAAvAAAAAAAAAA==",
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:53:34.59Z",
+              "WhenOpened": "2025-04-18T15:27:29.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductNotFoundException.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\ProductNotFoundException.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Exceptions\\ProductNotFoundException.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\ProductNotFoundException.cs",
-              "RelativeToolTip": "Core\\Domain\\Exceptions\\ProductNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\AuthenticationService.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "Core\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAASwEkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:41:59.112Z",
+              "WhenOpened": "2025-04-18T09:28:22.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BasketNotFoundException.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\BasketNotFoundException.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Exceptions\\BasketNotFoundException.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\BasketNotFoundException.cs",
-              "RelativeToolTip": "Core\\Domain\\Exceptions\\BasketNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\ServiceManager.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Core\\Services\\ServiceManager.cs",
+              "ViewState": "AgIAACAAAAAAEq2wOZD9vycAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:41:51.204Z",
+              "WhenOpened": "2025-04-18T15:08:05.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BasketService.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\BasketService.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\BasketService.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\BasketService.cs",
-              "RelativeToolTip": "Core\\Services\\BasketService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAEBTwB4AAABpAAAAAAAAAA==",
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\ApiController.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwBAAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:34:48.223Z",
+              "WhenOpened": "2025-04-18T15:20:59.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IBasketService.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IBasketService.cs",
-              "RelativeDocumentMoniker": "Core\\Services.Abstraction\\IBasketService.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IBasketService.cs",
-              "RelativeToolTip": "Core\\Services.Abstraction\\IBasketService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADgvyIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:29:14.633Z",
+              "WhenOpened": "2025-04-18T15:23:19.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\BasketController.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADgvwwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:21:20.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IBasketRepository.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Contracts\\IBasketRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Contracts\\IBasketRepository.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Contracts\\IBasketRepository.cs",
-              "RelativeToolTip": "Core\\Domain\\Contracts\\IBasketRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAA3AAAAAAAAAA==",
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Core\\Services.Abstraction\\IAuthenticationService.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IAuthenticationService.cs",
+              "RelativeToolTip": "Core\\Services.Abstraction\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T16:31:04.246Z",
+              "WhenOpened": "2025-04-18T15:18:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\Services.Abstraction\\IServiceManager.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services.Abstraction\\IServiceManager.cs",
+              "RelativeToolTip": "Core\\Services.Abstraction\\IServiceManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:04:24.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\ErrorModels\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Shared\\ErrorModels\\ErrorDetails.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\ErrorModels\\ErrorDetails.cs",
+              "RelativeToolTip": "Shared\\ErrorModels\\ErrorDetails.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:47:40.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlobalErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\E-Commerce\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "E-Commerce\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAASwEAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:51:12.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterValidationException.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\RegisterValidationException.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Exceptions\\RegisterValidationException.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\RegisterValidationException.cs",
+              "RelativeToolTip": "Core\\Domain\\Exceptions\\RegisterValidationException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:29:56.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Core\\Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:42:14.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "Core\\Domain\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:52:33.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Core\\Domain\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:41:31.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\BasketService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\BasketService.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\BasketService.cs",
+              "RelativeToolTip": "Core\\Services\\BasketService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:46:50.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserResultDto.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Security\\UserResultDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Security\\UserResultDto.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Security\\UserResultDto.cs",
+              "RelativeToolTip": "Shared\\Security\\UserResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:49:34.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Security\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Security\\LoginDto.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Security\\LoginDto.cs",
+              "RelativeToolTip": "Shared\\Security\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:48:42.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Security\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Security\\RegisterDto.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Shared\\Security\\RegisterDto.cs",
+              "RelativeToolTip": "Shared\\Security\\RegisterDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:47:51.946Z",
               "EditorCaption": ""
             }
           ]

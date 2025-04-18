@@ -10,9 +10,8 @@ using Shared;
 
 namespace Presentation.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class BasketController(IServiceManager _serviceManager) : ControllerBase
+  
+    public class BasketController(IServiceManager _serviceManager) : ApiController
     {
         #region CreateOrUpdate
         [HttpPost]
