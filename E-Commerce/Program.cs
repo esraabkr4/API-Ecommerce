@@ -35,6 +35,7 @@ namespace E_Commerce
             //builder.Services.AddScoped<IGenericRepository, GenericRepository>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IBasketRepository, BasketRepository>();
+            builder.Services.AddScoped<ICashRepository, CashRepository>();
             builder.Services.AddScoped<IBasketService, BasketService>();
 
             //builder.Services.AddScoped<IProductService, ProductService>();

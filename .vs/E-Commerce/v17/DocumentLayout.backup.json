@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "E:\\Root course\\c#\\Basics\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\data\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\data\\configurations\\deliverymethodconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\configurations\\deliverymethodconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F0CC46-4845-4D64-A53A-73C88C457B26}|Core\\Services\\Services.csproj|solutionrelative:core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|e:\\root course\\c#\\basics\\e-commerce\\core\\domain\\entities\\orderentities\\orderpaymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08906D92-C6BD-4A5D-B62E-7446A06D2FB4}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\orderentities\\orderpaymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\data\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\persistence\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED2F6A5-EB7B-4970-8C3B-5AC9B0B4F46E}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|e:\\root course\\c#\\basics\\e-commerce\\infrastructure\\presentation\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F438A81A-1794-40B5-97ED-B022ACFCBA74}|Infrastructure\\Presentation\\Presentation.csproj|solutionrelative:infrastructure\\presentation\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs*",
-              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\AuthenticationController.cs*",
-              "ViewState": "AgIAAEMAAAAAAAAAAADgv08AAAAeAAAAAAAAAA==",
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:15:37.113Z",
+              "WhenOpened": "2025-04-28T19:25:46.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServiceManager.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\ServiceManager.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\ServiceManager.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\ServiceManager.cs",
-              "RelativeToolTip": "Core\\Services\\ServiceManager.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwBsAAACcAAAAAAAAAA==",
+              "Title": "DeliveryMethodConfiguration.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Configurations\\DeliveryMethodConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Configurations\\DeliveryMethodConfiguration.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Configurations\\DeliveryMethodConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Configurations\\DeliveryMethodConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:13:24.623Z",
+              "WhenOpened": "2025-04-28T19:24:35.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\AuthenticationService.cs",
-              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "Core\\Services\\AuthenticationService.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAASwHgAAAAbAAAAAAAAAA==",
+              "Title": "OrderPaymentStatus.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Core\\Domain\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T09:28:22.344Z",
+              "WhenOpened": "2025-04-28T19:23:36.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:22:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\StoreContext.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Persistence\\Data\\StoreContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\StoreContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:21:02.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Presentation\\Controllers\\PaymentsController.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\E-Commerce\\Infrastructure\\Presentation\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Infrastructure\\Presentation\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:08:26.351Z",
               "EditorCaption": ""
             }
           ]

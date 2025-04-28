@@ -14,6 +14,7 @@ namespace Domain.Entities.OrderEntities
         }
         public Order(string _UserEmail, string _ShipingAddress, ICollection<OrderItem> _orderItems, OrderPaymentStatus _paymentStatus, DeliveryMethod _deliveryMethod, decimal _SubTotal, string _PaymentIntendId, DateTimeOffset _OrderDate)
         {
+            Id=Guid.NewGuid();
             UserEmail = _UserEmail;
             ShipingAddress = _ShipingAddress;
             orderItems = _orderItems;
@@ -23,11 +24,14 @@ namespace Domain.Entities.OrderEntities
             PaymentIntendId = _PaymentIntendId;
             OrderDate = _OrderDate;
         }
+       // public Guid Id { get; set; }
         public string UserEmail { get; set; }
         public string ShipingAddress { get; set; }
         public ICollection<OrderItem> orderItems { get; set; }
         public OrderPaymentStatus paymentStatus { get; set; }
         public DeliveryMethod deliveryMethod { get; set; }
+        public int? deliveryMethodId { get; set; }
+
         public decimal SubTotal { get; set; }
         public string PaymentIntendId { get; set; }
         public DateTimeOffset OrderDate { get; set; }

@@ -29,7 +29,9 @@ namespace Persistence.Data.Configurations
             #region SubTotal
             builder.Property(o => o.SubTotal).HasColumnType("decimal(18,3)");
             #endregion
-
+            builder.HasMany(o => o.orderItems)
+                .WithOne()
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities.OrderEntities
 {
-    public class DeliveryMethod:BaseEntity<Guid>
+    public class DeliveryMethod:BaseEntity<int>
     {
         public DeliveryMethod()
         {

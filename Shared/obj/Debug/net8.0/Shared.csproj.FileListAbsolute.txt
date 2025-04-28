@@ -5,8 +5,8 @@ E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.GeneratedMSBu
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.sourcelink.json
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.dll
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\refint\Shared.dll
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.pdb
 E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\ref\Shared.dll
-E:\Root course\c#\Basics\E-Commerce\Shared\obj\Debug\net8.0\Shared.sourcelink.json

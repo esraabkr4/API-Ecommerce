@@ -212,6 +212,10 @@
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[48.0.2, )"
             }
           },
           "imports": [
