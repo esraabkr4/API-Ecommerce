@@ -12,7 +12,7 @@ namespace Domain.Entities.OrderEntities
         {
             
         }
-        public Order(string _UserEmail, string _ShipingAddress, ICollection<OrderItem> _orderItems, OrderPaymentStatus _paymentStatus, DeliveryMethod _deliveryMethod, decimal _SubTotal, string _PaymentIntendId, DateTimeOffset _OrderDate)
+        public Order(string _UserEmail, ShipingAddress _ShipingAddress, ICollection<OrderItem> _orderItems, OrderPaymentStatus _paymentStatus, DeliveryMethod _deliveryMethod, decimal _SubTotal, string _PaymentIntendId, DateTimeOffset _OrderDate)
         {
             Id=Guid.NewGuid();
             UserEmail = _UserEmail;
@@ -26,7 +26,7 @@ namespace Domain.Entities.OrderEntities
         }
        // public Guid Id { get; set; }
         public string UserEmail { get; set; }
-        public string ShipingAddress { get; set; }
+        public ShipingAddress ShipingAddress { get; set; }
         public ICollection<OrderItem> orderItems { get; set; }
         public OrderPaymentStatus paymentStatus { get; set; }
         public DeliveryMethod deliveryMethod { get; set; }

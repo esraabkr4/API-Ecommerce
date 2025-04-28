@@ -17,7 +17,7 @@ namespace Persistence.Data.Configurations
             builder.OwnsOne(order => order.ShipingAddress, Address => Address.WithOwner());
             #endregion
             #region OrderItem
-            builder.HasMany(order => order.orderItems).WithOne();
+            builder.HasMany(order => order.orderItems).WithOne().OnDelete(DeleteBehavior.Cascade);
             #endregion
             #region PaymentStatus
             builder.Property(order => order.paymentStatus)
@@ -29,9 +29,9 @@ namespace Persistence.Data.Configurations
             #region SubTotal
             builder.Property(o => o.SubTotal).HasColumnType("decimal(18,3)");
             #endregion
-            builder.HasMany(o => o.orderItems)
-                .WithOne()
-                .OnDelete(DeleteBehavior.Cascade);
+            //builder.HasMany(o => o.orderItems)
+            //    .WithOne()
+            //    .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }
